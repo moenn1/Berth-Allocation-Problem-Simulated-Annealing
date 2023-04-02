@@ -1,0 +1,13 @@
+< ----------------------------- Solution ---------------------------- >
+
+Number of berths used.........................: 3
+
+Number of ships serviced..........................: 10
+
+Cost of solution.............................: 570
+
+Number of ships serviced at the berth 1: 0
+Number of ships serviced at the berth 2: 3
+Number of ships serviced at the berth 3: 5
+Number of ships serviced at the berth 4: 2
+
